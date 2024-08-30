@@ -1,4 +1,4 @@
-## This is a sample site created to test the integration of Google Analytics with different Social Media platforms 
+## This is a sample site created to improve the website's UI to generate more user traffic and enhance the effectiveness of GA4 analytics
 
 #### Sample website as a landing page: https://preranacheguru.github.io/easley-dunn-games/
 
